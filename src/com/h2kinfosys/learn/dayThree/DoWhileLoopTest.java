@@ -11,6 +11,7 @@ public class DoWhileLoopTest {
 		}while(iterator <= 10);
 		System.out.println("iterator : " + iterator);
 		System.out.println("total : " + total);
+		System.out.println("DoWhileLoop");
 
 	}
 
